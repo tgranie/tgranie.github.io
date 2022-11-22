@@ -1,0 +1,30 @@
+{
+    "id": "39verdun",
+    "name": "39Verdun",
+    "models": [
+        {
+            "id": "design",
+            "name": "39 Verdun"
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.95,
+            0.95,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "viewCubeEnabled": true,
+        "threeDEnabled": true,
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
