@@ -53,8 +53,12 @@
       "name": "Revit Samples"
     },
     {
-      "id": "89Roquette",
+      "id": "89roquette",
       "name": "89 rue de la roquette"
+    },
+	 {
+      "id": "39verdun",
+      "name": "39 verdun"
     }
   ]
 }
